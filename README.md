@@ -1,2 +1,3 @@
 # sn-test
-srilatha test repo
+# This repo is used to explore git
+srilatha test repo. 
